@@ -3,7 +3,10 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
+- [link for preview](https://main--chriswhitehead--musician2000.aem.page)
+
 - Live: https://main--{repo}--{owner}.aem.live/
+- [link for preview](https://main--chriswhitehead--musician2000.aem.live)
 
 ## Documentation
 
